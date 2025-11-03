@@ -1,7 +1,10 @@
-'''
-sudo flatpak install --system flathub com.github.sdv43.whaler
-'''
+## installation
 
+```
+sudo flatpak install --system flathub com.github.sdv43.whaler
+```
+
+## configuration
 
 tambahkan di kedua file subuid dan subgid dibawah dengan
 your_username:165536:65536
